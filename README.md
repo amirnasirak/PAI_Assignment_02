@@ -13,3 +13,5 @@ Link to Preprocessed Dataset: https://drive.google.com/drive/folders/1GoVFbuwlFB
 
 **My work is attached to this link in Jupiter Notebook file.
 DDPM model script is also attached.**
+
+Pretrained model weights can be downloaded from given link, Pretrained Weights in file "model_epoch_99 (2).pt" trained on raw data and Pretrained Weights in file "**model_epoch_99_prep.pt**" trained on preprocessed data with 100 epochs: https://drive.google.com/drive/folders/12aDF2PVfwlBAS80YCNEdbweqhegAKf5U?usp=sharing
